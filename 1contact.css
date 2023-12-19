@@ -1,0 +1,33 @@
+<div class="form-area">
+        <div class=" container ">
+            <div class="row single-form g-0 " style="border-radius: 15px; ">
+                <div class="col-sm-12 col-lg-6 ">
+                    <div class="left " style="border-radius: 15px; ">
+
+                        <!--<h2><span><i class="bi bi-envelope-at-fill "></i></span> <br>Contact Us</h2>-->
+						<img id="rci" src="114.png" width="400" height=320" ></img>
+                    </div>
+                </div>
+                <div class="col-sm-12 col-lg-6 ">
+                    <div class="right ">
+                        <i class="fa fa-caret-left "></i>
+                        <form>
+                            <div class="mb-3 ">
+                                <label for="exampleInputEmail1 " class="form-label ">Your Name</label>
+                                <input type="text " class="form-control " id="exampleInputEmail1 " aria-describedby="emailHelp ">
+                            </div>
+                            <div class="mb-3 ">
+                                <label for="exampleInputEmail1 " class="form-label ">Email address</label>
+                                <input type="email " class="form-control " id="exampleInputEmail2 " aria-describedby="emailHelp ">
+                            </div>
+                            <div class="mb-3 ">
+                                <label for="exampleInputPassword1 " class="form-label ">Message</label>
+                                <textarea type="password " class="form-control " id="exampleInputPassword1 "></textarea>
+                            </div>
+                            <button type="submit " class="btn btn-primary ">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
